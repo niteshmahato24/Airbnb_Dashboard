@@ -39,7 +39,7 @@ Compares city-level concentration, Superhost presence, average pricing, and rati
 ### 3. Reviewer Behavior & Trust Dynamics
 Examines review frequency, seasonal patterns, and user verification trust metrics.
 
-![Reviews & Seasonality](Reviews.jpg)
+![Reviews & Seasonality](Reviews.png)
 
 * **Review Frequency:** **98.8%** of reviewers leave 3 or fewer reviews overall.
 * **Seasonality:** Paris and Rome dominate review activity during European summer peak months (April to August), while New York experiences demand surges in November and December.
